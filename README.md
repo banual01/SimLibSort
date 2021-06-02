@@ -1,1 +1,1 @@
-This is a project for collecting, sorting and updating books in Luther College Sims library
+C
